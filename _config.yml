@@ -1,12 +1,17 @@
 title: "Harrison Sims"
-description: "CV • Publications • Projects"
+description: "Ph.D. student • Human–AI Teams • Human Factors & Ergonomics"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-feed
 
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+
+# Optional social links for SEO
+author:
+  name: "Harrison Sims"
+  email: "h.jv.sims@gmail.com"
