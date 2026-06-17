@@ -5,6 +5,13 @@ title: Work Experience
 
 # Work Experience
 
+## Warden Lab Manager - University of Michigan
+*(Jan 2026–Present)*
+- Coordinated day-to-day laboratory operations, ensuring alignment of research activities, resources, and personnel across multiple ongoing projects.
+- Organized and facilitated weekly lab meetings, setting agendas, tracking action items, and supporting clear communication between team members and the PI.
+- Supervised and mentored undergraduate research assistants, delegating tasks, providing training, and monitoring progress to ensure high-quality contributions.
+
+
 ## Intern Scientist — Aptima Inc. 
 *(May 2025–Aug 2025)*
 - Conducted statistical analyses for DARPA-funded projects using ANOVA and mixed-effects models in R.  
