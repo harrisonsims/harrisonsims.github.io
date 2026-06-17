@@ -6,8 +6,7 @@ title: Home
 # Harrison Sims
 ![Harrison Sims](/assets/headshot.png){: style="max-width:160px;border-radius:12px" }
 
-First-year Ph.D. student at the University of Michigan with a foundation in psychology, biomedical engineering, and mathematics.  
-Researching **human–machine networks**, **team dynamics**, and **human factors methods** to improve safety and performance in complex systems.
+Third-year Ph.D. student at the University of Michigan with a robust foundation in psychology, biomedical engineering, and mathematics, working to advance research in human-automation team **hierarchical structures** and **information exchange processes** as a NIOSH occupational safety engineering trainee.     
 
 <div class="contact">
 <strong>Contact:</strong> <a href="mailto:h.jv.sims@gmail.com">h.jv.sims@gmail.com</a>
@@ -22,11 +21,11 @@ Researching **human–machine networks**, **team dynamics**, and **human factors
 
 <!-- Core methods -->
 <span class="badge">Human–AI Teams</span>
-<span class="badge">Human Factors methodology</span>
+<span class="badge">Human Factors Methodology</span>
 <span class="badge">FRAM • CTA • HTA • TAM</span>
 <span class="badge">Mixed-Effects Models</span>
 <span class="badge">Discrete Event Simulation</span>
-<span class="badge">Monte Carlo Methods</span>
+<span class="badge">Monte Carlo Simulation</span>
 
 <!-- Programming -->
 <span class="badge">Python</span>
@@ -60,13 +59,15 @@ Researching **human–machine networks**, **team dynamics**, and **human factors
 
 ## Awards & Honors
 
+- **Hispanic Scholarship Fund Scholar**, 2020–2026  
+
 - **NSF Graduate Research Fellowships Program (GRFP)** — Honorable Mention (1 of 8 nationally), 2025
+
+- **Cesar E. Chavez Foundation Scholar**, 2025
 
 - **Rackham Graduate Student Research Grant**, University of Michigan, 2024  
 
 - **Achievement Rewards for College Scientists (ARCS) Scholar**, 2023  
-
-- **Hispanic Scholarship Fund Scholar**, 2020–2024  
 
 - **Tau Beta Pi**, **Psi Chi**, and **Alpha Eta Mu Beta** honor societies  
 

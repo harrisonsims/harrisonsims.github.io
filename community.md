@@ -5,6 +5,13 @@ title: Community Engagement
 
 # Community Engagement
 
+## President - University of Michigan HFES Student Chapter
+*(Sep 2025–Present)*
+- Serve as the president of the HFES student chapter at the University of Michigan.
+- Coordinate with student professional organizations to revitalize the graduate student mentorship program for incoming master’s and PhD students.
+- Broaden chapter engagement by developing programming for students across human factors-adjacent disciplines.
+
+
 ## Student Representative — HFES Occupational Ergonomics Technical Group 
 *(Feb 2025–Present)*
 - Serve as student representative on leadership committee, providing a graduate student perspective.  
